@@ -2,8 +2,9 @@ package com.lti;
 
 public class Login {
 	public void login(){
-		System.out.println("Login Push Test take 2");
-	};
+		System.out.println("Login function added succesfully");
+		//what to do now bro ?
+	}
 	
 	//login
 	public void registration()
